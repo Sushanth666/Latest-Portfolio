@@ -1,13 +1,12 @@
-<h1 align="center">DevFolio</h1>
+<h1 align="center">PortFolio</h1>
 
 <p align="center">This website is an opportunity to demonstrate a <b>Portfolio</b> of information about me and to provide further information (via links) about my work.<p>
 
-  ### <code>Live Demo</code> - **[Portfolio Website](https://akshatjalan.github.io/akshat/)**
+  ### <code>Live Demo</code> - **[Portfolio Website](https://sushanth666.github.io/Latest-Portfolio/)**
 
 # Website Preview
   This is a portfolio of my work, including both my personal and academic projects.
   
- ![Alt text](https://github.com/Akshatjalan/akshat/blob/master/assets/img/yeah.png?raw=true "Main Page")
 
 
 :star:  Star me on GitHub — it helps!
@@ -33,22 +32,22 @@
 
 ## Contact 
  <h3 align="center">
-  <code> Akshat Jalan </code>
+  <code> B V Sree Sushanth </code>
 </h3>
   <p align="center"> 
 
-  <a href="https://github.com/Akshatjalan">
+  <a href="https://github.com/Sushanth666">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Github.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.linkedin.com/in/akshat-jalan/">
+  <a href="https://www.linkedin.com/in/b-v-sree-sushanth-9a47a91a5/">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/LinkedIN.svg" width="30" height="30" hspace="20">
   </a>
 
-  <a href="https://www.instagram.com/akshatxjalan/">
+  <a href="https://www.instagram.com/_sushanth_babu_/">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Instagram.svg" width="30" height="30" hspace="20">
   </a>
-    <a href="mailto:jalanakshat2@gmail.com">
+    <a href="mailto:sushanthsree29802@gmail.com">
     <img src="https://github.com/Akshatjalan/akshat/blob/master/Color/Gmail.svg"  width="30" height="30" hspace="20">
   </a>
 
